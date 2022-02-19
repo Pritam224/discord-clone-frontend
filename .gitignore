@@ -26,4 +26,5 @@ package.kjs
 
 .package-lock.json
 .env
+.talismanrc
 
